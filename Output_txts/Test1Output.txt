@@ -1,0 +1,4 @@
+test1 best params: {'gamma': 8, 'learning_rate': 0.015, 'max_depth': 16, 'min_child_weight': 6, 'n_estimators': 31, 'reg_alpha': 139}
+test1 best params: {'gamma': 3, 'learning_rate': 0.12, 'max_depth': 18, 'min_child_weight': 10, 'n_estimators': 54, 'reg_alpha': 154}
+test1 best params: {'gamma': 4, 'learning_rate': 0.06, 'max_depth': 16, 'min_child_weight': 11, 'n_estimators': 86, 'reg_alpha': 156}
+test1 best params: {'gamma': 2, 'learning_rate': 0.12, 'max_depth': 18, 'min_child_weight': 15, 'n_estimators': 45, 'reg_alpha': 21}
