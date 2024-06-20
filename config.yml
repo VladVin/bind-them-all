@@ -1,0 +1,21 @@
+# Project settings
+Project_name: Test1
+dir: /Ben
+data_dir: /Results_CSV/
+fig_dir: Figures
+model_dir: Models
+
+# Output settings
+output_filename: Output.txt
+hyp_tune: 1
+save_model: 1
+
+# Hyperparameter tuning settings
+maxevals: 30
+
+# Data management settings
+use_some_data: 0
+use_data_size: 100
+use_same_data_size: 1
+test_size: 0.20
+
