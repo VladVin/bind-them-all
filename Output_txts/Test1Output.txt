@@ -2,3 +2,14 @@ test1 best params: {'gamma': 8, 'learning_rate': 0.015, 'max_depth': 16, 'min_ch
 test1 best params: {'gamma': 3, 'learning_rate': 0.12, 'max_depth': 18, 'min_child_weight': 10, 'n_estimators': 54, 'reg_alpha': 154}
 test1 best params: {'gamma': 4, 'learning_rate': 0.06, 'max_depth': 16, 'min_child_weight': 11, 'n_estimators': 86, 'reg_alpha': 156}
 test1 best params: {'gamma': 2, 'learning_rate': 0.12, 'max_depth': 18, 'min_child_weight': 15, 'n_estimators': 45, 'reg_alpha': 21}
+test1 best params: {'gamma': 5, 'learning_rate': 0.12, 'max_depth': 17, 'min_child_weight': 13, 'n_estimators': 19, 'reg_alpha': 108}
+test1 best params: {'gamma': 0, 'learning_rate': 0.06, 'max_depth': 19, 'min_child_weight': 20, 'n_estimators': 28, 'reg_alpha': 22}
+test1 best params: {'gamma': 0, 'learning_rate': 0.015, 'max_depth': 25, 'min_child_weight': 11, 'n_estimators': 250, 'reg_alpha': 1}
+test1 best params: {'gamma': 0, 'learning_rate': 0.03, 'max_depth': 28, 'min_child_weight': 12, 'n_estimators': 392, 'reg_alpha': 6}
+test1 best params: {'gamma': 2, 'learning_rate': 0.25, 'max_depth': 30, 'min_child_weight': 7, 'n_estimators': 290, 'reg_alpha': 1}
+test1 best params: {'gamma': 2, 'learning_rate': 0.25, 'max_depth': 24, 'min_child_weight': 6, 'n_estimators': 122, 'reg_alpha': 2}
+test1 best params: {'gamma': 0, 'learning_rate': 0.06, 'max_depth': 5, 'min_child_weight': 16, 'n_estimators': 358, 'reg_alpha': 4}
+test1 best params: {'gamma': 1, 'learning_rate': 0.03, 'max_depth': 4, 'min_child_weight': 6, 'n_estimators': 61, 'reg_alpha': 4}
+test1 best params: {'gamma': 0, 'learning_rate': 0.12, 'max_depth': 27, 'min_child_weight': 11, 'n_estimators': 101, 'reg_alpha': 5}
+test1 best params: {'gamma': 0, 'learning_rate': 0.06, 'max_depth': 20, 'min_child_weight': 13, 'n_estimators': 346, 'reg_alpha': 7}
+test1 best params: {'gamma': 0, 'learning_rate': 0.015, 'max_depth': 22, 'min_child_weight': 20, 'n_estimators': 291, 'reg_alpha': 1}
